@@ -16,4 +16,4 @@
 
 ## Snapshots of Project Dashboard
 
-![](images/img.png)
+![Screenshot 2021-08-28 151405 jpg](https://user-images.githubusercontent.com/74975388/131214104-780b264d-5db9-46a3-84e9-63e12544a80f.png)
