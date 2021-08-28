@@ -1,12 +1,19 @@
-# Project Title
+# Team 4 
 
-A brief description of what this project does and who it's for
+## Tools & Technologies
+* **HTML**        -      For basic dashboard structure
+* **CSS**         -      For styling dashboard structure
+* **Javascript**  -      For interacting with **JSON**
 
+## **Instructions** to analyse specific Stock
+<dl>
+<dd>1. Provide a form where specific Company name is entered to check the time series of data set of the company. On clicking the field the entire time series is displayed on the dashboard in the form of graph.</dd>
+</dl>
 
-## Screenshots
+<dl>
+<dd>2. Provide a button on the dashborad for keeping track of searched items. On clicking the field icon,the history of serched items is displayed. </dd>
+</dl>
 
-![App Screenshot](https://user-images.githubusercontent.com/74975388/131212673-17bcb569-872d-4fb3-92f5-f78b2f3188a2.png)
+## Snapshots of Project Dashboard
 
-Hello t
-
-![Screenshot (102)](https://user-images.githubusercontent.com/74975388/131212673-17bcb569-872d-4fb3-92f5-f78b2f3188a2.png)
+![](images/img.png)
